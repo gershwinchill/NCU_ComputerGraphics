@@ -42,7 +42,7 @@
 
 ---
 
-# CGBézier - Cubic Bézier Curve
+# CGCurve - Cubic Bézier Curve
 
 ## 流程
 1. 設定四個控制點 $P_1, P_2, P_3, P_4$。
