@@ -11,6 +11,7 @@
    * 否則 y 不變，更新 $d = d + 2 \cdot dy$。
 4. 繼續直到到達終點。
 
+---
 
 # CGCircle - Midpoint Circle Algorithm
 **Midpoint Circle Algorithm** 是一種高效的圓形離散化演算法，用於決定螢幕上哪些像素應被點亮以近似理論圓形。它僅使用整數加減與比較運算，計算效率高，適合實時繪圖。
@@ -27,6 +28,7 @@
 
 3. 重複迴圈直到完成整個圓。
 
+---
 
 # CGEllipse - Midpoint Ellipse Algorithm
 
@@ -45,6 +47,8 @@
    * 畫出橢圓四個象限對稱點。
 4. 重複迴圈直到 y < 0，完成整個橢圓。
 
+---
+
 # CGBézier - Cubic Bézier Curve
 
 **Cubic Bézier Curve** 是一種常用的平滑曲線演算法，用於決定螢幕上哪些像素應被點亮以近似理論曲線。它利用四個控制點生成連續曲線，計算效率高且形狀可控。
@@ -61,8 +65,6 @@
      $$
    * 使用 `drawPoint` 將計算出的點畫在螢幕上。
 3. 遞增 t 直到 1，生成整條平滑曲線。
-
-好的，我幫你整理 **CGEraser** 的原理與特點介紹，格式與你之前的 CGLine、CGCircle、CGEllipse、CGBézier 保持一致，可直接放在 GitHub README：
 
 ---
 
