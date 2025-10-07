@@ -70,3 +70,5 @@
    * $y_{\text{end}} = \max(P_1.y, P_2.y)$
 3. 對矩形內每個像素，呼叫 `drawPoint(x, y, bgColor)` 將其填充為背景色。
 4. 可搭配滑鼠滾輪調整擦除範圍或改造成圓形橡皮擦。
+
+reference:chatgpt
