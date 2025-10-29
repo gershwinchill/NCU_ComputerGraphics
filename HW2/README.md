@@ -7,7 +7,7 @@ Rotation Matrix (Z-axis)
 
 
 Scaling Matrix
-<br>>給定4x4矩陣，做出拉伸矩陣。
+<br>給定4x4矩陣，做出拉伸矩陣。
 
 
 pnpoly
@@ -25,5 +25,6 @@ Sutherland_Hodgman_algorithm
 
 
 *有使用ChatGPT輔助
+
 
 
